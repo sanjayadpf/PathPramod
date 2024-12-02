@@ -1,0 +1,45 @@
+# ROS2 specific
+/ros2_ws/log
+/ros2_ws/install
+/ros2_ws/build
+/ros2_ws/setup.*.sh
+
+# VSCode
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.idea/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+*.pdb
+*.obj
+*.o
+
+# Eclipse
+.project
+.cproject
+.idea/
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Temporary files
+*.log
+*.out
+*.tmp
+*.pid
+*.swp
